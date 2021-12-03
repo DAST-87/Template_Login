@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+.login{
+    background-color: whitesmoke;
+    width: 450px;
+    margin-top: 200px;
+    padding: 50px;
+    box-shadow: 0 0  20px -10px black;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    background-color: silver;
+    border-radius: 100px;
+}
